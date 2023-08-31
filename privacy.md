@@ -1,99 +1,63 @@
-# Privacy policy
+**Privacy Policy**
 
-For the purpose of this statement ‘Website’ refers to the site that you are accessing this Privacy Policy from. 
+Magika Apps built the Speak English Learning App app as an Ad Supported app. This SERVICE is provided by Magika Apps at no cost and is intended for use as is.
 
-Your privacy and trust are very important to Apps. This Privacy Policy describes the information that we collect from you, how we collect this, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. 
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-Please Note: Apps reserves the right to make changes to the Privacy Policy at any time. The latest version will always be available from a link on the Website. 
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-You may be able to access third party websites directly from the Website. This Privacy Policy does not apply when you access third party websites. 
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Speak English Learning App unless otherwise defined in this Privacy Policy.
 
-## Information We Collect and How We Use It 
+**Information Collection and Use**
 
-When you place an order, or use any online form on our website we will ask for your name and other information such as your postal address, e-mail address, telephone number, Date of Birth and your credit card number and expiry date or bank account details etc to allow us to process your request. Only relevant information will be used by us, our agents and sub-contractors to facilitate the service you have requested and potentially communicate with you on any concerns arising to the provision of the service in general. We do not share date of birth information with 3rd parties and only use this information for analytical research. 
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-We use analytic and reporting technologies to record and collect non-personal information from you. This information, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet protocol (IP) Address, cannot be easily used to personally identify you. Apps reserves the right to use partners, who may use web beacons and cookies to help manage, monitor and optimise our Website to help us measure the effectiveness of our advertising, communications and how visitors use the Website. 
+The app does use third-party services that may collect information used to identify you.
 
-## How We Use Cookies 
+Link to the privacy policy of third-party service providers used by the app
 
-Cookies are alphanumeric identifiers that a Web site can store on your computer's hard drive. When you visit apps8.mozello.com, create a user account, download or purchase a product from us, or sign-in to the Apps Reader we may set cookies on your personal computer. We require that cookies be enabled in your Web browser so that we can identify you as a repeat visitor or customer and maintain session information for logged-in users. We also use cookies to track usage trends and patterns in order to better understand and improve areas of our Web site. 
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-Apps may allow other companies that are providing content on our site to set and access their own cookies on your computer. Other companies' use of cookies is subject to their respective privacy policies. 
+**Log Data**
 
-## How We Share the Information We Collect 
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-We may share your Personal Information only as follows: 
+**Cookies**
 
-Publishers and partners:
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-Apps may provide publishers and other merchants for whom Apps sells or distributes Publications or other products, with any Personal Information in connection with or as is necessary to fulfill your requests for their products, programs or services, or to satisfy other core business functions. In such instances, your Personal Information is governed by their respective privacy policies. 
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-Agents:
+**Service Providers**
 
-We may employ other companies and individuals to perform functions on our behalf such as fulfilling orders, sending email, processing credit card payments, and providing customer service. They will be provided access to Personal Information needed to perform their functions, but may not use it for other purposes. 
+I may employ third-party companies and individuals due to the following reasons:
 
-Trusted third parties:
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-With your consent, we will make your Personal Information (not including your credit card information) available to trusted third parties who offer products and services we think may be of interest to you so that you can receive information or opportunities related to those products and services. You may update your preference with regard to our sharing your information for this purpose by opting in in the Your Account area of the Apps Web site. A trusted third party may use shared information in accordance with its own privacy policy. 
+I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-With your consent:
+**Security**
 
-Other than as set out above, you will receive notice prior to our sharing your Personal Information with any third parties, and you will have an opportunity to choose not to share the information. 
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-Apps reserves the right to use and disclose anonymous information, including aggregate information derived from your Personal Information, to inform publishers, partners, and other interested parties as to the usage habits or characteristics of Apps's user base; and to serve other general business purposes. 
+**Links to Other Sites**
 
-Email Communications to our Users 
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Apps does not send unsolicited email, but we do send email communications to our users in connection with our providing the Apps Service. The following outlines the types of email Apps sends to our users, and the choices you have about which messages to receive. 
+**Children’s Privacy**
 
-Messages required to service orders you place for Publications and products fulfilled by Apps:
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 
-Apps will send you email notifying you of the availability of each magazine issue or other product that you order either directly from Apps or from one of our publisher or other merchant partners. We may also send you communications related to your order, for example encouraging you to pay for, register for the auto-renewal option for or renew your subscription. 
+**Changes to This Privacy Policy**
 
-Messages required to service your Apps account:
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-Apps may send newly registered users a welcoming email, as well as messages confirming each order you place directly at apps8.mozello.com; confirming your account changes; inviting you to participate in customer surveys; and informing you of important product or service updates related to our core business. 
+This policy is effective as of 2023-08-31
 
-Marketing messages about Publications you receive:
+**Contact Us**
 
-We may send you marketing messages related to the Publications you receive, for example, encouraging you to purchase additional single copies or to subscribe. 
-
-Optional marketing messages from Apps:
-
-Registered users may also occasionally receive information or special promotions from Apps about additional Publications, products and services. You may update your preference with regard to receiving such messages by opting out in the Your Account area of the Apps Web site. 
-
-Optional marketing messages from trusted third parties:
-
-With your consent, Apps may share your Personal Information (not including your credit card information) with trusted third parties so that you may receive information or opportunities from them about relevant products and services they offer. You may update your preference by opting in in the Your Account area of the Apps Web site. 
-
-## Changing or Removing Your Information 
-
-To review or update your Personal Information, or to alter your email preferences, or preferences regarding how we share your Personal Information, visit the Your Account area of apps8.mozello.com. 
-
-If at any time you would like to close your account, send email to bvd.pismo@gmail.com. Your Personal Information will be removed from our active user database and will be deleted assuming that you are current with all payment obligations, that Apps does not believe it reasonably necessary to keep such information for any pending legal action, and that we are under no other legal obligation to retain such information. Please be aware that any unfulfilled subscriptions may be canceled without refund and you will have to re-register in order to use the Apps Service. It is your responsibility to request a refund from Apps or the appropriate merchant. 
-
-## How Is My Personal Information Protected? 
-
-Whenever we obtain your personal information, we use commercially reasonable efforts to protect it from unauthorised access or disclosure. However, we are not insurers of the security of your personal information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorised third party access or other acts of third parties, or acts or omissions beyond our reasonable control. 
-
-## Website Content
-
-The content that you store, post, or transmit on or through the Website, such as comment postings or images, may be accessed by other users, including people that you do not know. We are not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your personal information to other users that you know to be trustworthy. You should not assume that your content will be kept private. 
-
-## Security 
-
-The security of your personal information is important to us. When you enter sensitive information such as a credit card number on our registration or order forms, we encrypt that information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
-
-## Children Under 13 
-
-The Website is intended for users ages 13 and older. Accordingly, we will not knowingly collect or use any personal information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13. In some instances a child of 13 or under can use the Website but with the authority of a parent or legal guardian. 
-
-## Children Aged 13 to 17 
-
-Prospective users between the ages of 13 and 17 can only use the Website under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate your use on areas of the Website that require personal information. 
-
-## Disclosure of Information to Successors 
-
-We may disclose your personal information to any successor-in-interest of ours, such as a company that acquires us. In the event Apps goes through a business transition, such as a merger or acquisition by or with another company, or sale of all or a portion of our assets, your personal information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information. 
-
-## Disclosure of Information to Unaffiliated Third Parties.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at steuber95@bk.ru.
