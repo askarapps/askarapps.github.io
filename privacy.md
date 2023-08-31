@@ -1,3 +1,7 @@
+# Privacy Policy
+
+[Speak English Learning App](https://play.google.com/store/apps/details?id=com.bgddoogplay.speakenglish)
+
 **Privacy Policy**
 
 Magika Apps built the Speak English Learning App app as an Ad Supported app. This SERVICE is provided by Magika Apps at no cost and is intended for use as is.
